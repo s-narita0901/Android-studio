@@ -1,2 +1,2 @@
 # Android-studio
-これは私のAndroidstusio関連のプログラムをコミットするページです。
+これは私のAndroidstudio関連のプログラムをコミットするページです。
